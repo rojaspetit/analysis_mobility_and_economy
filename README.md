@@ -41,7 +41,7 @@ Analyze the relationship between urban traffic congestion and selected economic 
 
 ### Data availability
 
-The original raw datasets are not included in this repository due to file size limitations. The cleaned and integrated dataset generated during the analysis is available in datasets/clean/, while the complete data preparation and integration workflow remains documented in the notebook.
+The original raw datasets are not included in this repository due to file size limitations. The cleaned and integrated dataset generated during the analysis is available in `datasets/clean/`, while the complete data preparation and integration workflow remains documented in the notebook.
 
 ### TomTom Traffic Index
 
