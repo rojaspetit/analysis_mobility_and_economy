@@ -2,7 +2,8 @@
 
 This project explores the relationship between urban mobility indicators and economic performance across major Latin American cities during 2024. By integrating traffic and economic datasets, the analysis examines whether patterns of congestion are associated with differences in economic productivity and identifies cities that may warrant further infrastructure assessment.
 
-> **Academic Project**  
+> **Academic Project**
+> 
 > This project was developed for educational purposes as part of a simulated business case. The role, business scenario, and recommendations are intended to demonstrate a data analytics workflow and should not be interpreted as official guidance for the organizations referenced.
 
 ---
