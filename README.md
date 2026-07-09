@@ -67,11 +67,11 @@ Provides annual city-level economic indicators, including GDP per capita, unempl
 
 ## 🔍 Key Findings
 
-![Traffic congestion delay and GDP per capita comparison](images/congestion_gdp_comparison.png)
-
 ### No clear visual relationship between congestion and GDP per capita
 
-The exploratory analysis did not reveal an obvious linear relationship between traffic congestion and GDP per capita. Cities with stronger economic performance displayed varying congestion levels, suggesting that additional factors may influence urban mobility.
+The exploratory analysis did not reveal a clear visual relationship between traffic congestion and GDP per capita. Cities with stronger economic performance displayed varying congestion levels, suggesting that additional factors may influence urban mobility.
+
+![Traffic congestion delay and GDP per capita comparison](images/congestion_gdp_comparison.png)
 
 ### Mexico City stands out as a notable outlier
 
@@ -102,15 +102,6 @@ Cities such as Bogotá and Lima exhibit comparatively high congestion alongside 
 - The dataset includes only 15 cities from seven Latin American countries.
 - Findings are descriptive and based primarily on exploratory visualizations.
 - The analysis does not establish causal relationships between mobility and economic performance.
-
----
-
-## 🚀 Next Steps
-
-- Extend the study with historical data to evaluate trends over time.
-- Incorporate additional urban development indicators.
-- Perform correlation analysis to complement the visual findings.
-- Explore city-level segmentation to identify groups with similar mobility and economic characteristics.
 
 ---
 
