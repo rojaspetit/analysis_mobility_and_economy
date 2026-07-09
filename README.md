@@ -53,7 +53,7 @@ Provides annual city-level economic indicators, including GDP per capita, unempl
 
 ---
 
-## 🛠️ Analysis Process
+## 🔎 Analysis Process
 
 - Loaded and inspected both datasets.
 - Standardized column names and corrected data types.
@@ -65,7 +65,7 @@ Provides annual city-level economic indicators, including GDP per capita, unempl
 
 ---
 
-## 🔍 Key Findings
+## 🔑 Key Findings
 
 ### No clear visual relationship between congestion and GDP per capita
 
@@ -120,7 +120,7 @@ Cities such as Bogotá and Lima exhibit comparatively high congestion alongside 
 
 ---
 
-## 💻 Tools and Technologies
+## 🛠️ Tools and Technologies
 
 - Python
 - pandas
